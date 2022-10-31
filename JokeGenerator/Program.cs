@@ -10,7 +10,7 @@ namespace JokeGeneratorWMarEw
     {
         static void Main(string[] args)
         {
-            var Run = new OpptionsMenu();
+            var Run = new OptionsMenu();
             Run.ExecuteOptions();
             Console.ReadLine();
 
